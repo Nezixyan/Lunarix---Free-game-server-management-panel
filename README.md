@@ -4,7 +4,17 @@
 
 # Commands to download panel
 
+Update repositories
 ```html
-# update repositories
 apt update
+```
+
+Install CURL
+```html
+apt install curl
+```
+
+Install panel
+```html
+bash <(curl 
 ```
