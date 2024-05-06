@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Free source panel for managent game server, etc... </h3>
 
+# Commands to download panel
+
 ```html
 <h2>Example of code</h2>
 
